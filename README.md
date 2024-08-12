@@ -1,8 +1,8 @@
 # Projeto de Avaliação de Desenvolvedores
-Este projeto foi desenvolvido como parte de uma avaliação de desenvolvedores para a empresa ACE OESEIIIVO.Vll,4EIHO Dii SISTE AS LTDA. O projeto foi baseado na estrutura pré-pronta disponibilizada pela empresa.
+Este projeto foi desenvolvido como parte de uma avaliação de desenvolvedores para o SOC. O projeto foi baseado na estrutura pré-pronta disponibilizada por ela.
 
 ## Objetivo
-O objetivo deste projeto foi simular as atividades realizadas no sistema principal da empresa, o SOC, implementando funcionalidades típicas do dia a dia.
+O objetivo deste projeto foi simular as atividades realizadas no sistema principal da empresa, implementando funcionalidades típicas do dia a dia.
 
 ## Funcionalidades Implementadas
 #### CRUD de Exames:
